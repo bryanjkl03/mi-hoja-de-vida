@@ -1,7 +1,3 @@
-# mi-hoja-de-vida
-
-markdown
-CopiarEditar
 # Mi hoja de vida
 
 **Nombre completo : ** Brayan perez
