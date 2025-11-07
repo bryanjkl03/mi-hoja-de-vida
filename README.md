@@ -15,4 +15,3 @@ CopiarEditar
 # habilidades
 - conocimientos basicos en informatica
 - uso de herramientas colaborativas como github
-- 
