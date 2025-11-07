@@ -5,6 +5,7 @@ CopiarEditar
 # Mi hoja de vida
 
 **Nombre completo : ** Brayan perez
+
 **Correo electronico: ** brayan.perez-o@uniminuto.edu.co
 
 ## Formación academica
